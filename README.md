@@ -1,0 +1,1 @@
+I have organized this repository by difficulty and the provided categories on CTFLearn. You can choose to begin at difficulty easy and work your way up through the write-ups or begin at a harder difficulty.
